@@ -28,5 +28,5 @@ Ways to improve:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='https://github.com/andreyyy178/Eulerity-Photos/blob/master/photos%20walkthrough.gif?raw=true
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://raw.githubusercontent.com/andreyyy178/Eulerity-Photos/master/photos%20walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
