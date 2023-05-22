@@ -29,4 +29,4 @@ Ways to improve:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/andreyyy178/Twitter/blob/master/walkthrough2.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/CFO7S9v' title='Video Walkthrough' width='' alt='Video Walkthrough' />
