@@ -17,3 +17,12 @@ The following functionality is completed:
   - [x] Made a GET request to /upload which returns a JSON object with a "url" attribute to which the image can be uploaded.
   - [x] Uploaded the image to the server using a POST request with a multipart/form-data encoding type
 
+Ways to improve:
+* Cache the images to avoid hitting the server needlessly
+* Expensive operations can be optimized (see [comments under EditBody](https://github.com/andreyyy178/Eulerity-Photos/blob/master/app/src/main/java/com/example/eulerityphotos/ui/screens/EditScreen.kt#122)) 
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/andreyyy178/Twitter/blob/master/walkthrough2.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
