@@ -29,4 +29,4 @@ Ways to improve:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/a/CFO7S9v](https://imgur.com/a/CFO7S9v)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough](photo walkthrough.gif)
