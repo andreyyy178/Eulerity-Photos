@@ -19,7 +19,7 @@ The following functionality is completed:
 
 Ways to improve:
 * Cache the images to avoid hitting the server needlessly
-* Expensive operations can be optimized (see [comments under EditBody](https://github.com/andreyyy178/Eulerity-Photos/blob/master/app/src/main/java/com/example/eulerityphotos/ui/screens/EditScreen.kt#122)) 
+* Expensive operations can be optimized (see [EditScreen.kt](https://github.com/andreyyy178/Eulerity-Photos/blob/master/app/src/main/java/com/example/eulerityphotos/ui/screens/EditScreen.kt#L122)) 
 
 ## Video Walkthrough
 
