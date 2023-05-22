@@ -19,10 +19,14 @@ The following functionality is completed:
 
 Ways to improve:
 * Cache the images to avoid hitting the server needlessly
-* Expensive operations can be optimized (see [EditScreen.kt](https://github.com/andreyyy178/Eulerity-Photos/blob/master/app/src/main/java/com/example/eulerityphotos/ui/screens/EditScreen.kt#L122)) 
+* Expensive operations can be optimized (see [EditScreen.kt](https://github.com/andreyyy178/Eulerity-Photos/blob/master/app/src/main/java/com/example/eulerityphotos/ui/screens/EditScreen.kt#L122))
+* Clean up code
+* Implement an extra screen where a user can see the history of their uploaded images
+* Store when the image was edited last
+* More better UI
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented features:
 
 <img src='https://github.com/andreyyy178/Twitter/blob/master/walkthrough2.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
